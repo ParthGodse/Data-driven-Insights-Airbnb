@@ -38,5 +38,4 @@ HeatMap to visually represent the density of prices at different geographical lo
 
 ![image](https://github.com/ParthGodse/Data-driven-Insights-Airbnb/assets/98154485/6309a358-4188-49c3-a083-48c276a1c08a)<br>
 
-
-
+In collaboration with : Aamir Hullur
